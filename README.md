@@ -70,5 +70,5 @@ Prereq:
 - Twilio: set `WHATSAPP_FROM`, `WHATSAPP_TO`, `TWILIO_SMS_FROM`, `SMS_TO` correctly (E.164 format, e.g., +9198xxxxxxx).
 - Gmail SMTP: use an App Password if you have 2FA enabled.
 - Twitter API: `twurl` handles OAuth on your machine; this script wraps the call.
-# linux_cli_messaging
+
 
